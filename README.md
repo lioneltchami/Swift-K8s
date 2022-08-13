@@ -10,31 +10,31 @@ This repo covers Kubernetes objects' and components' details (Kubectl, Pod, Depl
 **Note:** K8s objects and objects feature can be updated/changed in time. While creating this repo, the version of K8s is v1.22.3.
 
 # Quick Look (HowTo): Scenarios - Hands-on LAB
-- [LAB: K8s Creating Pod - Imperative Way](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-CreatingPod-Imperative.md)
-- [LAB: K8s Creating Pod - Declarative Way (With File) - Environment Variable](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8-CreatingPod-Declerative.md) 
-- [LAB: K8s Multicontainer - Sidecar - Emptydir Volume - Port-Forwarding](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Multicontainer-Sidecar.md)
-- [LAB: K8s Deployment - Scale Up/Down - Bash Connection - Port Forwarding](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Deployment.md)
-- [LAB: K8s Rollout - Rollback](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Rollout-Rollback.md)
-- [LAB: K8s Service Implementations (ClusterIp, NodePort and LoadBalancer)](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Service-App.md)
-- [LAB: K8s Liveness Probe](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Liveness-App.md)
-- [LAB: K8s Secret (Declarative and Imperative Way)](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Secret.md)
-- [LAB: K8s Config Map](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Configmap.md)
-- [LAB: K8s Node Affinity](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Node-Affinity.md)
-- [LAB: K8s Taint-Toleration](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Taint-Toleration.md)      
-- [LAB: K8s Daemonset - Creating 3 nodes on Minikube](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Daemon-Sets.md)   
-- [LAB: K8s Persistent Volume and Persistent Volume Claim](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-PersistantVolume.md)
-- [LAB: K8s Stateful Sets - Nginx](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Statefulset.md)  
-- [LAB: K8s Job](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Job.md)
-- [LAB: K8s Cron Job](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-CronJob.md)
-- [LAB: K8s Ingress](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Ingress.md)
-- [LAB: Helm Install & Usage](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/Helm.md)
-- [LAB: K8s Cluster Setup with Kubeadm and Containerd](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Kubeadm-Cluster-Setup.md)
-- [LAB: K8s Cluster Setup with Kubeadm and Docker](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Kubeadm-Cluster-Docker.md)
-- [LAB: Helm-Jenkins on running K8s Cluster (2 Node Multipass VM)](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Helm-Jenkins.md)
-- [LAB: Enable Dashboard on Real K8s Cluster](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
-- [LAB: K8s Monitoring - Prometheus and Grafana](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Monitoring-Prometheus-Grafana.md)    
-- [Kubectl Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/KubernetesCommandCheatSheet.md)
-- [Helm Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/HelmCheatsheet.md)
+- [LAB: K8s Creating Pod - Imperative Way](https://github.com/apotitech/Swift-K8s/blob/main/K8s-CreatingPod-Imperative.md)
+- [LAB: K8s Creating Pod - Declarative Way (With File) - Environment Variable](https://github.com/apotitech/Swift-K8s/blob/main/K8-CreatingPod-Declerative.md) 
+- [LAB: K8s Multicontainer - Sidecar - Emptydir Volume - Port-Forwarding](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Multicontainer-Sidecar.md)
+- [LAB: K8s Deployment - Scale Up/Down - Bash Connection - Port Forwarding](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Deployment.md)
+- [LAB: K8s Rollout - Rollback](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Rollout-Rollback.md)
+- [LAB: K8s Service Implementations (ClusterIp, NodePort and LoadBalancer)](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Service-App.md)
+- [LAB: K8s Liveness Probe](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Liveness-App.md)
+- [LAB: K8s Secret (Declarative and Imperative Way)](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Secret.md)
+- [LAB: K8s Config Map](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Configmap.md)
+- [LAB: K8s Node Affinity](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Node-Affinity.md)
+- [LAB: K8s Taint-Toleration](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Taint-Toleration.md)      
+- [LAB: K8s Daemonset - Creating 3 nodes on Minikube](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Daemon-Sets.md)   
+- [LAB: K8s Persistent Volume and Persistent Volume Claim](https://github.com/apotitech/Swift-K8s/blob/main/K8s-PersistantVolume.md)
+- [LAB: K8s Stateful Sets - Nginx](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Statefulset.md)  
+- [LAB: K8s Job](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Job.md)
+- [LAB: K8s Cron Job](https://github.com/apotitech/Swift-K8s/blob/main/K8s-CronJob.md)
+- [LAB: K8s Ingress](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Ingress.md)
+- [LAB: Helm Install & Usage](https://github.com/apotitech/Swift-K8s/blob/main/Helm.md)
+- [LAB: K8s Cluster Setup with Kubeadm and Containerd](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Kubeadm-Cluster-Setup.md)
+- [LAB: K8s Cluster Setup with Kubeadm and Docker](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Kubeadm-Cluster-Docker.md)
+- [LAB: Helm-Jenkins on running K8s Cluster (2 Node Multipass VM)](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Helm-Jenkins.md)
+- [LAB: Enable Dashboard on Real K8s Cluster](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
+- [LAB: K8s Monitoring - Prometheus and Grafana](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Monitoring-Prometheus-Grafana.md)    
+- [Kubectl Commands Cheatsheet](https://github.com/apotitech/Swift-K8s/blob/main/KubernetesCommandCheatSheet.md)
+- [Helm Commands Cheatsheet](https://github.com/apotitech/Swift-K8s/blob/main/HelmCheatsheet.md)
 
 # Table of Contents
 - [Motivation](#motivation)
@@ -149,7 +149,7 @@ Why should we use Kubernetes? "Kubernetes is a portable, extensible, open-source
 Download:
 - **Kubectl:** The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters. 
 - **Minikube:** It is a tool that lets you run Kubernetes locally. It runs a single-node Kubernetes cluster on your personal computer (https://minikube.sigs.k8s.io/docs/start/) 
-- **KubeAdm:** You can use the kubeadm tool to create and manage Kubernetes clusters. This is for creating cluster with computers (Goto: [LAB: K8s Kubeadm Cluster Setup](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Kubeadm-Cluster-Setup.md)).
+- **KubeAdm:** You can use the kubeadm tool to create and manage Kubernetes clusters. This is for creating cluster with computers (Goto: [LAB: K8s Kubeadm Cluster Setup](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Kubeadm-Cluster-Setup.md)).
 
 from here=> https://kubernetes.io/docs/tasks/tools/ 
 
@@ -168,7 +168,7 @@ For learning K8s and running on a computer, **Kubectl and Minikube** are enough 
 - When run "kubectl" on the terminal, it can be seen some simple commands. Also "kubectl <command> --help" gives more information.
 - Pattern: kubectl [get|delete|edit|apply] [pods|deployment|services] [podName|serviceName|deploymentName]
 - Example: "kubectl get pods podName", "kubectl delete pods test_pod", "kubectl describe pods firstpod", etc.
-- All necessary/most usable commands are listed in the "[Kubernetes Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/KubernetesCommandCheatSheet.md)". Please have a look to get more information and usage.
+- All necessary/most usable commands are listed in the "[Kubernetes Commands Cheatsheet](https://github.com/apotitech/Swift-K8s/blob/main/KubernetesCommandCheatSheet.md)". Please have a look to get more information and usage.
 
 ### Pod: Creating, Yaml, LifeCycle <a name="pod"></a>
 - Pod is the smallest unit that is created and managed in K8s.
@@ -183,7 +183,7 @@ For learning K8s and running on a computer, **Kubectl and Minikube** are enough 
     - how to run commands in pod,
     - how to delete pod. 
 
-**Goto the Scenario:** [LAB: K8s Creating Pod - Imperative Way](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-CreatingPod-Imperative.md) 
+**Goto the Scenario:** [LAB: K8s Creating Pod - Imperative Way](https://github.com/apotitech/Swift-K8s/blob/main/K8s-CreatingPod-Imperative.md) 
 
 #### Pod: YAML File
 - Imperative way could be difficult to store and manage process. Every time we have to enter commands. To prevent this, we can use YAML file to define pods and pods' feature. This way is called "Declarative Way".
@@ -194,7 +194,7 @@ For learning K8s and running on a computer, **Kubectl and Minikube** are enough 
 
 - Please have a look Scenario (**Creating Pod - Declarative way**, below link) to learn more information.
 
-**Goto the Scenario:** [LAB: K8s Creating Pod - Declarative Way (With File) - Environment Variable](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8-CreatingPod-Declerative.md) 
+**Goto the Scenario:** [LAB: K8s Creating Pod - Declarative Way (With File) - Environment Variable](https://github.com/apotitech/Swift-K8s/blob/main/K8-CreatingPod-Declerative.md) 
 
 #### Pod: Life Cycle
 - **Pending:** API->etcd, pod created, pod id created, but not running on the node.
@@ -258,7 +258,7 @@ spec:
 ```    
 - Please have a look Scenario (below link) to learn more information.
 
-**Goto the Scenario:** [LAB: K8s Multicontainer - Sidecar - Emptydir Volume - Port-Forwarding](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Multicontainer-Sidecar.md) 
+**Goto the Scenario:** [LAB: K8s Multicontainer - Sidecar - Emptydir Volume - Port-Forwarding](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Multicontainer-Sidecar.md) 
 
 ### Label and Selector, Annotation, Namespace <a name="labelselector"></a>
 #### Label
@@ -358,7 +358,7 @@ kubectl delete deployments firstdeployment
 ```
 - Please have a look Scenario (below link) to learn more about the deployment and declerative way of creating deployment.
 
-**Goto the Scenario:** [LAB: K8s Deployment - Scale Up/Down - Bash Connection - Port Forwarding](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Deployment.md) 
+**Goto the Scenario:** [LAB: K8s Deployment - Scale Up/Down - Bash Connection - Port Forwarding](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Deployment.md) 
     
 ### Replicaset <a name="replicaset"></a>
 - Deployment object create Replicaset object. Deployment provides the transition of the different replicaset automatically. 
@@ -387,7 +387,7 @@ kubectl rollout pause deployment rolldeployment                             #pau
 kubectl rollout resume deployment rolldeployment                            #resume the rollout if rollout paused
 ```
   
-**Goto the Scenario:** [LAB: K8s Rollout - Rollback](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Rollout-Rollback.md)
+**Goto the Scenario:** [LAB: K8s Rollout - Rollback](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Rollout-Rollback.md)
     
 ### Network, Service <a name="network-service"></a>
 #### K8s Networking Requirements
@@ -429,7 +429,7 @@ spec:
       port: 80
       targetPort: 9376
 ```    
-**Goto the Scenario:** [LAB: K8s Service Implementations (ClusterIp, NodePort and LoadBalancer)](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Service-App.md)
+**Goto the Scenario:** [LAB: K8s Service Implementations (ClusterIp, NodePort and LoadBalancer)](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Service-App.md)
     
 ### Liveness and Readiness Probe <a name="liveness-readiness"></a>
 #### Liveness Probe
@@ -442,7 +442,7 @@ spec:
 - initialDelaySeconds: waiting some period of time after starting. e.g. 5sec, after 5 sec start to run command
 - periodSeconds: in a period of time, run command. 
     
-**Goto the Scenario:** [LAB: K8s Liveness Probe](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Liveness-App.md)   
+**Goto the Scenario:** [LAB: K8s Liveness Probe](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Liveness-App.md)   
     
 #### Readiness Probe
 - "Sometimes, applications are temporarily unable to serve traffic. For example, an application might need to load large data or configuration files during startup, or depend on external services after startup. In such cases, you don't want to kill the application, but you don't want to send it requests either. Kubernetes provides readiness probes to detect and mitigate these situations. A pod with containers reporting that they are not ready does not receive traffic through Kubernetes Services." (Ref: Kubernetes.io)
@@ -468,7 +468,7 @@ spec:
     
 ![image](https://user-images.githubusercontent.com/10358317/153676628-d103de1d-e223-451b-8337-cdfe1cebee66.png)
     
-**Goto the Scenario:** [LAB: K8s Creating Pod - Declarative Way - Environment Variable](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8-CreatingPod-Declerative.md) 
+**Goto the Scenario:** [LAB: K8s Creating Pod - Declarative Way - Environment Variable](https://github.com/apotitech/Swift-K8s/blob/main/K8-CreatingPod-Declerative.md) 
     
 ### Volume <a name="volume"></a>
 - Ephemeral volume (Temporary volume): Multiple containers reach ephemeral volume in the pod. When the pod is deleted/killed, volume is also deleted. But when container is restarted, volume is still available because pod still runs.
@@ -497,7 +497,7 @@ spec:
     emptyDir: {}                 # "volume" type "emptydir"
 ```  
     
-**Goto the Scenario:** [LAB: K8s Multicontainer - Sidecar - Emptydir Volume - Port-Forwarding](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Multicontainer-Sidecar.md)  
+**Goto the Scenario:** [LAB: K8s Multicontainer - Sidecar - Emptydir Volume - Port-Forwarding](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Multicontainer-Sidecar.md)  
     
 #### Hostpath Volume
 - It is similar to emtpydir, hostpath is also created on which node the pod is created on. In addition, the hostpath is specifically defined path on the node.
@@ -557,7 +557,7 @@ kubectl create secret generic mysecret3 --from-file=db_server=server.txt --from-
 kubectl create secret generic mysecret4 --from-file=config.json
 ``` 
     
-**Goto the Scenario:** [LAB: K8s Secret (Declarative and Imperative Way)](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Secret.md)     
+**Goto the Scenario:** [LAB: K8s Secret (Declarative and Imperative Way)](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Secret.md)     
     
 ### ConfigMap <a name="configmap"></a>
 - It is same as "secrets". The difference is that configmap does not save sensitive information. It stores config variables.
@@ -565,7 +565,7 @@ kubectl create secret generic mysecret4 --from-file=config.json
 - Configmaps are called by the pod in 2 different ways: volume and environment variable    
 - Scenario shows the usage of configmaps.
     
-**Goto the Scenario:** [LAB: K8s Config Map](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Configmap.md)
+**Goto the Scenario:** [LAB: K8s Config Map](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Configmap.md)
     
 ### Node – Pod Affinity <a name="node-pod-affinity"></a>
 - Affinity means closeness, proximity, familarity.
@@ -579,9 +579,9 @@ kubectl create secret generic mysecret4 --from-file=config.json
     - **preferredDuringSchedulingIgnoredDuringExecution:** Find a node during scheduling according to "matchExpression" and run pod on that node. If it is not found, run this pod wherever it finds. 
         - **weight:** Preference weight. If weight is more than other weights, this weight is higher priority than others. 
 
-- To understand better, please have a look [LAB: K8s Node Affinity](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Node-Affinity.md)    
+- To understand better, please have a look [LAB: K8s Node Affinity](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Node-Affinity.md)    
     
-**Goto the Scenario:** [LAB: K8s Node Affinity](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Node-Affinity.md)    
+**Goto the Scenario:** [LAB: K8s Node Affinity](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Node-Affinity.md)    
     
 #### Pod Affinity 
 - Some of the pods should run with other pods on same node or same availability zone (e.g. frontend pods run with cache pod on the same availability zone) 
@@ -667,16 +667,16 @@ spec:
     - **NoSchedule:** If pod is not tolerated with this effect, it can not run on the related node (status will be pending, until toleration/untaint)
     - **PreferNoSchedule:** If pod is not tolerated with this effect and if there is not any untainted node, it can run on the related node. 
     - **NoExecute:** If pod is not tolerated with this effect, it can not run on the related node. If there are pods running on the node before assigning "NoExecute" taint, after tainting "NoExecute", untolerated pods stopped on this node. 
-- For clarification, please have a look [LAB: K8s Taint Toleration](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Taint-Toleration.md)   
+- For clarification, please have a look [LAB: K8s Taint Toleration](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Taint-Toleration.md)   
     
-**Goto the Scenario:** [LAB: K8s Taint-Toleration](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Taint-Toleration.md)    
+**Goto the Scenario:** [LAB: K8s Taint-Toleration](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Taint-Toleration.md)    
     
 ### Deamon Set <a name="daemon-set"></a>
 - It provides to run pods on EACH nodes. It can be configured to run only specific nodes.
 - For example, you can run log application that runs on each node in the cluster and app sends these logs to the main log server. Manual configuration of each nodes could be headache in this sceneario, so using deamon sets would be beneficial to save time and effort.
 - If the new nodes are added on the cluster and running deamon sets on the cluster at that time period, default pods which are defined on deamon sets also run on the new nodes without any action. 
     
-**Goto the scenario:** [LAB: K8s Daemonset - Creating 3 nodes on Minikube](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Daemon-Sets.md)
+**Goto the scenario:** [LAB: K8s Daemonset - Creating 3 nodes on Minikube](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Daemon-Sets.md)
     
 ### Persistent Volume and Persistent Volume Claim <a name="pvc"></a>
 - Volumes are ephemeral/temporary area that stores data. Emptydir and hostpath create volume on node which runs related pod.
@@ -740,7 +740,7 @@ spec:
 
 ![image](https://user-images.githubusercontent.com/10358317/154735404-80221355-1493-4043-ba7a-8c7a4ddc8df0.png)
  
-**Goto the scenario:** [LAB: K8s Persistant Volume and Persistant Volume Claim](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-PersistantVolume.md)    
+**Goto the scenario:** [LAB: K8s Persistant Volume and Persistant Volume Claim](https://github.com/apotitech/Swift-K8s/blob/main/K8s-PersistantVolume.md)    
     
 ### Storage Class <a name="storageclass"></a>
 - Creating volume with PV is manual way of creating volume. With storage classes, it can be automated. 
@@ -788,7 +788,7 @@ spec:
     - When scaling down of statefulset, pods are deleted in random. Pods are deleted in order.
     - If PVC is defined in the statefulset, each pod in the statefulset has own PV
 
-**Goto the scenario:** [LAB: K8s Stateful Sets - Nginx](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Statefulset.md)  
+**Goto the scenario:** [LAB: K8s Stateful Sets - Nginx](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Statefulset.md)  
     
 ### Job, CronJob <a name="job"></a>
 #### Job Object 
@@ -808,7 +808,7 @@ spec:
     
 ![image](https://user-images.githubusercontent.com/10358317/154946885-80e87f3c-5120-4c09-bde2-a35cd09a7383.png)    
     
-**Goto the scenario:** [LAB: K8s Job](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Job.md)
+**Goto the scenario:** [LAB: K8s Job](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Job.md)
     
 #### Cron Job Object
 - Cron job is a scheduled job that can be started in scheduled time.
@@ -853,7 +853,7 @@ spec:
 
 ![image](https://user-images.githubusercontent.com/10358317/154948618-8b71bf38-62a7-44de-bdd2-ac40a1709eb4.png)
     
-**Goto the scenario:** [LAB: K8s Cron Job](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-CronJob.md)
+**Goto the scenario:** [LAB: K8s Cron Job](https://github.com/apotitech/Swift-K8s/blob/main/K8s-CronJob.md)
 
 ### Authentication, Role Based Access Control, Service Account <a name="authentication"></a>
     
@@ -972,7 +972,7 @@ spec:
               number: 80
 ```
     
-**Goto the scenario:** [LAB: K8s Ingress](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Ingress.md)    
+**Goto the scenario:** [LAB: K8s Ingress](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Ingress.md)    
     
 ### Dashboard <a name="dashboard"></a>
 - You can view followings using default K8s dashboard:
@@ -1006,7 +1006,7 @@ sensible-browser http://127.0.0.1:45771/api/v1/namespaces/kubernetes-dashboard/s
        
 ![image](https://user-images.githubusercontent.com/10358317/152147845-017c6c10-a687-4ee3-b868-a08d96f6d884.png)
     
-**Goto the scenario:** [LAB: Enable Dashboard on Real Cluster](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
+**Goto the scenario:** [LAB: Enable Dashboard on Real Cluster](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
 
 ## Play With Kubernetes <a name="playWithKubernetes"></a>
 
@@ -1022,30 +1022,30 @@ sensible-browser http://127.0.0.1:45771/api/v1/namespaces/kubernetes-dashboard/s
     - **Repository:** "A Repository is the place where charts can be collected and shared"
     - **Release:** "A Release is an instance of a chart running in a Kubernetes cluster. One chart can often be installed many times into the same cluster. And each time it is installed, a new release is created. Consider a MySQL chart. If you want two databases running in your cluster, you can install that chart twice. Each one will have its own release, which will in turn have its own release name."
     
-**Goto the scenario:** [LAB: HELM Install & Usage](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/Helm.md) 
+**Goto the scenario:** [LAB: HELM Install & Usage](https://github.com/apotitech/Swift-K8s/blob/main/Helm.md) 
 
-**Goto the scenario:** [LAB: Helm-Jenkins on running K8s Cluster (2 Node Multipass VM)](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Helm-Jenkins.md)   
+**Goto the scenario:** [LAB: Helm-Jenkins on running K8s Cluster (2 Node Multipass VM)](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Helm-Jenkins.md)   
     
-**Goto:** [Helm Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/HelmCheatsheet.md)
+**Goto:** [Helm Commands Cheatsheet](https://github.com/apotitech/Swift-K8s/blob/main/HelmCheatsheet.md)
     
        
 ## Kubernetes Commands Cheatsheet <a name="cheatsheet"></a>
 
-**Goto:** [Kubernetes Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/KubernetesCommandCheatSheet.md)
+**Goto:** [Kubernetes Commands Cheatsheet](https://github.com/apotitech/Swift-K8s/blob/main/KubernetesCommandCheatSheet.md)
     
 ## Helm Commands Cheatsheet <a name="helm_cheatsheet"></a>
 
-**Goto:** [Helm Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/HelmCheatsheet.md)
+**Goto:** [Helm Commands Cheatsheet](https://github.com/apotitech/Swift-K8s/blob/main/HelmCheatsheet.md)
 
 ## Kubernetes Cluster Setup: Kubeadm, Containerd, Multipass <a name="cluster_setup"></a>
     
-**Goto:** [LAB: K8s Kubeadm Cluster Setup](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Kubeadm-Cluster-Setup.md) 
+**Goto:** [LAB: K8s Kubeadm Cluster Setup](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Kubeadm-Cluster-Setup.md) 
     
 ## Monitoring Kubernetes Cluster with SSH, Prometheus and Grafana <a name="prometheus_grafana"></a>
        
-**Goto:** [LAB: K8s Monitoring - Prometheus and Grafana](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Monitoring-Prometheus-Grafana.md)
+**Goto:** [LAB: K8s Monitoring - Prometheus and Grafana](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Monitoring-Prometheus-Grafana.md)
 
-**Goto:** [LAB: Enable Dashboard on Real K8s Cluster](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
+**Goto:** [LAB: Enable Dashboard on Real K8s Cluster](https://github.com/apotitech/Swift-K8s/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
     
 ## Other Useful Resources Related Docker  <a name="resource"></a>
 - [KubernetesTutorial](https://kubernetes.io/docs/tutorials/)
