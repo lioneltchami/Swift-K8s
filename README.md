@@ -3,7 +3,7 @@ This repo covers Kubernetes objects' and components' details (Kubectl, Pod, Depl
 
 
 ## Prerequisite
-- Have a knowledge of Container Technology (Docker). You can learn it from here => [Fast-Docker](https://github.com/omerbsezer/Fast-Docker)
+- Have a knowledge of Container Technology (Docker). You can learn it from here => [Swift-Docker](https://github.com/apotitech/Swift-Docker)
 
 **Keywords:** Containerization, Kubernetes, Kubectl, Pod, Deployment, Service, ConfigMap, ReplicaSet, Volume, Cheatsheet.
 
